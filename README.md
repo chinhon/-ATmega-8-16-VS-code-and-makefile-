@@ -1,4 +1,9 @@
-ATmega 8 / 16 VS code 
+# ATmega 8 / 16 VS code 
 
-Edit makefile 
+## makefile 
+### Edit path
  MAIN_HEX_PATH
+### Add file Sources 
+ SRC += 
+### Add file headers
+ INCLUDE += 
